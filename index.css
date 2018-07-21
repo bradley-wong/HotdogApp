@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+
+#mainDiv {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+}
